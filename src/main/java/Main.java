@@ -5,8 +5,6 @@ public class Main {
         dog.eat();           // Rax eats
         dog.sounds();        // Dog barks
 
-        System.out.println();
-
         Cat cat =  new Cat();
         cat.eat();              // Stormy eats
         cat.sounds();           // Cat meows

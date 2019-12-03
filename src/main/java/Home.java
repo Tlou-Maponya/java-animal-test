@@ -1,7 +1,8 @@
 import java.util.ArrayList;
 
 public class Home{
-    ArrayList<Animal> pets = new ArrayList<Animal>();
+    ArrayList<Animal> pets = new ArrayList<>();
+
     public void adoptPet(Animal pet){
         pets.add(pet);
     }
